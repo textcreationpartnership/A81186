@@ -1,0 +1,232 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A curb for sectaries and bold propheciers by which Richard Farnham the weaver, Iames Hunt the farmer, M. Greene the feltmaker, and all other the like bold propheciers and sect leaders may be bridled and kept within their own beaten way, and the sacred and weightie worke of the ministery bee reserved to men, whom education fits, God cals, and good order in our church prefers thereunto. A matter very considerable in these present times.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81186</idno>
+            <idno type="STC">Wing C7620</idno>
+            <idno type="STC">Thomason E176_17</idno>
+            <idno type="STC">ESTC R14990</idno>
+            <idno type="EEBO-CITATION">99859777</idno>
+            <idno type="PROQUEST">99859777</idno>
+            <idno type="VID">111874</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81186)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111874)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 31:E176[17])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A curb for sectaries and bold propheciers by which Richard Farnham the weaver, Iames Hunt the farmer, M. Greene the feltmaker, and all other the like bold propheciers and sect leaders may be bridled and kept within their own beaten way, and the sacred and weightie worke of the ministery bee reserved to men, whom education fits, God cals, and good order in our church prefers thereunto. A matter very considerable in these present times.</title>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed, 1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Farnham, Richard, d. 1642 --  Early works to 1800.</term>
+               <term>Greene, John, --  Feltmaker --  Early works to 1800.</term>
+               <term>Hunt, James, --  Farmer --  Early works to 1800.</term>
+               <term>Dissenters, Religious --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:111874:1" rendition="simple:additions"/>
+            <p>A CURB FOR SECTARIES AND BOLD PROPHECIERS: By which <hi>Richard Farnham</hi> the Weaver, <hi>Iames Hunt</hi> the Farmer, M. <hi>Greene</hi> the Feltmaker, and all other the like bold <hi>Propheciers</hi> and <hi>Sect Leaders</hi> may be bridled and kept within their own beaten way, And the <hi>Sacred and weightie worke of the</hi> Miniſtery <hi>bee</hi> reſerved to men, whom education fits, God cals, and good order in our <hi>Church</hi> prefers thereunto.</p>
+            <p>A matter very conſiderable in theſe preſent times?</p>
+            <q>
+               <p>Doe men gather grapes of thorns, or figs of thiſtles?</p>
+               <bibl>
+                  <hi>Math. 7 16.</hi>
+               </bibl>
+            </q>
+            <p>LONDON, Printed, 1641.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:111874:2"/>
+            <head>To the zealous but miſled followers of Preachers in Corners.</head>
+            <opener>
+               <salute>SIRS,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He <hi>Engliſh</hi> Proverb ſayes, <hi>None is more bold then blind Baiard,</hi> and the compari<g ref="char:EOLhyphen"/>ſon holds well, making <hi>Zeal</hi> joyned with igno<g ref="char:EOLhyphen"/>rance like to mettle in a blind Horſe, which renders him miſchievous, rather then uſefull. The <hi>Phariſees</hi> ſaid, they ſaw, but were indeed blind Lea<g ref="char:EOLhyphen"/>ders of the blinde, till both fell into the ditch; and God fired <hi>Ieruſalem</hi> for their miſled <hi>Zeal.</hi> Beware of following their like. As of old, ſo in theſe latter days, there are falſe Prophets ſaith Saint <hi>Paul,</hi> Their methods and ſleights are ſubtile to deceive you, their skill very ſhallow and meane to informe you. <hi>The wiſeman hath his eyes in his head,</hi> and ſeeth this. And if you will not put your garment to a Botcher, nor truſt your ſick bodie to be cured by a <hi>Quack<g ref="char:EOLhyphen"/>ſa<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ver;</hi> Will you ſubmit your ſouls guidance to them, whom your itching eares, and ſelf will, and blinde humour affects? A Prophet or ſonne of a Prophet would have more to ſay: but the glaſse following, if you have eies to ſee, may give you a ſight of your Leaders defects, and your own fancies.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:111874:2"/>
+            <head>A Curb for Sectaries and bold Propheciers.</head>
+            <p>
+               <note place="margin">Every man is not fit to take upon him the Miniſtery.</note>
+               <seg rend="decorInit">S</seg>Aint <hi>Paul,</hi> a Maſter builder in Gods houſe, having ſpoken of bringing men to ever<g ref="char:EOLhyphen"/>laſting life by the Miniſtery of men, ſaith, <hi>Who is ſufficient for theſe things?</hi> 2 Cor. 2.16. The queſtion implyes, that it is not an eaſie matter to be fitted for this ſacred work.</p>
+            <p>In many reſpects therefore a ſingular care is to be taken, what perſons be admitted to ſo great a charge: and that,<label type="milestone">
+                  <seg type="milestoneunit">Reaſ. </seg>1</label> 1 Becauſe they are either a ſavour of life to life, or a ſavour of death to death to their hearers. Their office muſt needes bee of much circumſpection and truſt, ſeeing the iſſues of it are of ſo great con<g ref="char:EOLhyphen"/>cernment.</p>
+            <p n="2">2 The titles given them ſhew, as the excellencie,<label type="milestone">
+                  <seg type="milestoneunit">Reaſ. </seg>2</label>  ſo the weightineſſe of their office, for they are called Husbandmen in Gods field, Planters, and Waterers in his Garden: Want of skill in managing this charge may produce thornes, thiſtles, weeds. They are Gods Shepherds, and have their flocks, as ſheep apt to ſtrey; if they heedfully prevent it not; They are Stewards of the heavenly myſteries, Teachers in Gods ſteed, co-workers with God, Watch me<g ref="char:cmbAbbrStroke">̄</g>, Overſeers of others, Embaſſadors. They are the Lights of the World; and God, when he gave Lights to the World, took a view
+<pb n="2" facs="tcp:111874:3"/>of them, to ſee that they were good: and ſeeing Dea<g ref="char:EOLhyphen"/>cons muſt firſt bee tryed, and then Miniſter, if they bee found faithfull; much-more muſt Workmen of higher place not have hands laid ſuddenly upon them, nor run before they be ſent, nor take a calling upon them, un<g ref="char:EOLhyphen"/>leſſe a <hi>Titus</hi> or <hi>Timothy,</hi> put in place to that end, ordain them, and appoint them to the work.</p>
+            <p n="3">3 The treaſures which God intruſts them to com<g ref="char:EOLhyphen"/>municate to others are compriſed in the ſacred Scrip<g ref="char:EOLhyphen"/>tures,<label type="milestone">
+                  <seg type="milestoneunit">Reaſ. </seg>3</label> and are of ſo great depth, and ſo large extent, and have points ſo many and ſo conſiderable that we muſt reſume that of St. <hi>Paul,</hi> who is ſufficient for theſe things? let us look into the particulars.</p>
+            <p>
+               <note place="margin">Of skill in the firſt Table re<g ref="char:EOLhyphen"/>quiſite in the Clergie.</note>In the firſt place, the knowledg of God and his worſhip, and all the circumſtances thereof, cannot ſoundly and truly be taught but by thoſe whom Gods ſpirit enables thereunto, and pious education hath fit<g ref="char:EOLhyphen"/>ted for the worke.</p>
+            <p n="2">2 The performances of man to man, of Kings, of ſub<g ref="char:EOLhyphen"/>ordinate Rulers,<note place="margin">In the ſecond Table.</note> ſpirituall and temporall, in all degrees; the ſubjection required of al inferiours; all duties com<g ref="char:EOLhyphen"/>manded concerning preſervation of our perſons, mo<g ref="char:EOLhyphen"/>deſt and chaſt behaviour, true dealings in poſſeſsions &amp; outward goods, truth in our ordinary ſpeech, and wit<g ref="char:EOLhyphen"/>neſsing in caſes of difference, the not deſiring and co<g ref="char:EOLhyphen"/>veting in heart, what is not ours. Theſe all with their circumſtances have ſo many caſes of conſcience be<g ref="char:EOLhyphen"/>longing unto them, &amp; to be diſcuſſed concerning them, that large volumes ſcarce ſerve ſo to unfold them but that other caſes will ſtill be emergent.<note place="margin">And in caſes of conſcience.</note>
+            </p>
+            <p>
+               <note place="margin">In Politicks.</note>So that,
+<list>
+                  <item>1 policie and government of States and Kngdomes.</item>
+                  <item>2 Chriſtian cariage, converſation in
+<pb n="3" facs="tcp:111874:3"/>Heaven, and civill deportment of all private perſons, in all callings and places, of all trades and profeſsions for all things generally concerning them,<note place="margin">Ethicks.</note> and for many particulars, are not ſo left to naturall reaſon, and hu<g ref="char:EOLhyphen"/>mane diſcretion, but that they may borrow their beſt rules from Scriptures.<note place="margin">Oeconomicks.</note> So that the government of a people, and whole Countrey, private mens own Reli<g ref="char:EOLhyphen"/>gious behaviour, and pious ordering their families may be learned from the holy Scriptures lawes, and the practice of <hi>Moſes, David,</hi> and ſundry other Saints of God, who for their circumſpect walking both in pri<g ref="char:EOLhyphen"/>vate and publique life be greatly renowned.</item>
+                  <item>3 Seeing in the old Teſtament we have Gods laws amply de<g ref="char:EOLhyphen"/>ſcribed in <hi>Moſes,</hi>
+                     <note place="margin">Skill in law of divers kinds is grounded on Gods Law.</note> and further opened and enlarged in the Prophets, and the New Teſtament afterwards, the equity and ground of many of thoſe laws of God are of uſe for tryall of all kind of Lawes, whether naturall, civill, Canon, or common Law, which in ſeverall Nations have their uſe. None of all theſe may bee repugnant to Gods Law, but ſubordinate thereunto with reference to the condition of ſeverall Nations.</item>
+               </list>
+            </p>
+            <p n="3">3 The Old Teſtament comprehends in briefe the Hiſtory of the World for almoſt 4000. yeeres;<note place="margin">Skill in Hiſto<g ref="char:EOLhyphen"/>rie requiſite in the Clergie.</note> it de<g ref="char:EOLhyphen"/>clares the creation, and mans defection, the VVorlds drowning &amp; reparation; how Gods Truth was proga<g ref="char:EOLhyphen"/>ted &amp; the Church enlarged; what was the practice, &amp; faith of Gods redeemed people; how many oppoſiti<g ref="char:EOLhyphen"/>ons and malitious perſecutions befell them by the <hi>E<g ref="char:EOLhyphen"/>domites, Moabites, Ammonites, Philiſtines, Egyptians, Aſ<g ref="char:EOLhyphen"/>ſyrians, Babylonians, Perſians, Grecians,</hi> and others, and how God plagued theſe Nations for their miſchie<g ref="char:EOLhyphen"/>vouſneſſe and crueltie: The New Teſtament unfolds
+<pb n="4" facs="tcp:111874:4"/>the Hiſtory of Chriſt our Saviours life and death, the planting of the Chriſtian Church, the doctrine of the holy Apoſtles after Chriſts Aſcention. In theſe are many weighty points to be diſcuſſed, ſome varietie in circumſtances to be reconciled, and the ſweet harmo<g ref="char:EOLhyphen"/>ny of both Teſtaments to be explaned?</p>
+            <p n="4">
+               <note place="margin">Skill in Chro<g ref="char:EOLhyphen"/>nologie.</note>4 How frequently is the account of times recorded in the old Teſtament, and ſometime in the new? That wee might not confine it to the old, as a matter then onely conſiderable; The holy Ghoſt hath rolated the times of Gods mercies and judgments on the World, as a light and luſtre to ſtory, as a preſerver of order, &amp; confirmer of certaintie in Narration, and Man ought ſeriouſly to conſider the ſame. For the Husb and man is not more obſervant of fit ſeaſons, for his Countrey affaires, then God hath beene of due times in his dea<g ref="char:EOLhyphen"/>lings with men, and managing matters in the field of the World for mans good.</p>
+            <p n="5">
+               <note place="margin">In Geography.</note>5 Who can well underſtand the diſperſion of <hi>Noahs</hi> ſonnes, and their children, and the ſpeeches often run<g ref="char:EOLhyphen"/>ning upon them, and the places of their habitation, and how they came to entermeddle with Gods people? Who can rightly diſtinguiſh of the Rivers, Mountains, and Cities mentioned in ſacred Writ, if he be not ac<g ref="char:EOLhyphen"/>quainted with Geographie?</p>
+            <p>
+               <note place="margin">In the deep ſe<g ref="char:EOLhyphen"/>crets of Pro<g ref="char:EOLhyphen"/>pheſiers.</note>In Gods Booke there are many prophecies, which declare deep and hidden ſecrets by expreſsions excel<g ref="char:EOLhyphen"/>lent and much ſurpaſsing the ordinary ſtraine. Many of theſe are to be ſearched into and cleered, as by other plainer Scriptures, ſo by the Hiſtories of the World, which before Chriſts time were of vaſt comprehenſi<g ref="char:EOLhyphen"/>on, and of far greater ſince, in regard of the Goſpells
+<pb n="5" facs="tcp:111874:4"/>entertainment, or abuſe &amp; rejection now in many more parts of the world. What knowledge, what ſtudy, and meditation is together with the aſsiſtance of Gods ſpirit required for the opening of theſe propheſies, which are rich and comfortable treaſures left to GODS Church?</p>
+            <p n="7">
+               <note place="margin">In the know<g ref="char:EOLhyphen"/>ledge of na<g ref="char:EOLhyphen"/>ture.</note>7 For the cleering and explaning many Scriptures it is requiſite to have good skill in many naturall mat<g ref="char:EOLhyphen"/>ters; not onely becauſe the wiſdome and power of the Creatour is ſeen to be wonderfull in the Creatures, but alſo becauſe God often in Scripture ſpeaks of the Eagle, Ravens, Stork; of Cedars, Vines, Algu<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ims; of Dromedaries, Badgers, and Lions of divers kinds<g ref="char:punc">▪</g> of the Leviathan and the Tannin or Diacon of the Sea, and of many other matters in nature which are often made uſe of for mans information: and therefore tis ex<g ref="char:EOLhyphen"/>pedient that theſe matters ſhould be made brown.</p>
+            <p n="8">
+               <note place="margin">In the <hi>Hebrew</hi> and <hi>Greek</hi> tongues, &amp;c.</note>8 Seeing the old Teſtament is written for the moſt part in the <hi>Hebrew</hi> tongue, and ſome few paſſages in the <hi>Chaldee,</hi> it muſt neceſſarily be that there are ſome difficulties in our Tranſlations, which cannot be per<g ref="char:EOLhyphen"/>fectly looked into without the knowledge of theſe tongues. There are alſo ſome objections of men erro<g ref="char:EOLhyphen"/>neous on both hands, which cannot poſſibly beſſolved without very good skill in theſe tongues. Rare <hi>French</hi> and <hi>German</hi> words cannot be well knowne, but of the skilfull <hi>French</hi> and <hi>German,</hi> nor rate <hi>Hebrew</hi> words but of the learned <hi>Iews;</hi> And ſeeing the <hi>Hebrew</hi> tongue is now no where purely ſpoken, nor extant unmixt, but in the Bible, ſome hard words in this tongue are to be knowne by the tongues moſt neere to the <hi>Hebrew,</hi> as the <hi>Syriack</hi> and <hi>Arabick:</hi> for a word ſeldome uſed in
+<pb n="6" facs="tcp:111874:5"/>
+               <hi>Hebrew</hi> may be more frequent in them. And for the new Teſtament it is written in the <hi>Greek</hi> tongue, which is very copious and elegant, and hath many words of ambiguous uſe and ſignification. It hath alſo ſome <hi>Latine</hi> words as <hi>Denarion</hi> and <hi>Taberne,</hi> and ſome <hi>He<g ref="char:EOLhyphen"/>brew</hi> and <hi>Syriack,</hi> as <hi>Corban, Maranath<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> and divers o<g ref="char:EOLhyphen"/>thers: What ſtudy for skill herein is requiſite? Be<g ref="char:EOLhyphen"/>ſides in the New Teſtament be many forms of ſpeech borrowed from the Old, many Hebraiſmes, many ſhort and deep ſpeeches inexplicable without confe<g ref="char:EOLhyphen"/>rence with ſome ſpeciall clauſes of the Old. And how often in many paſſages of both Teſtaments is mention made of the cuſtomes, manners, and conditions of ſe<g ref="char:EOLhyphen"/>verall Nations in the World, of their Gods and Idola<g ref="char:EOLhyphen"/>trous worſhip?</p>
+            <p n="9">
+               <note place="margin">In Rhetorick.</note>9 How many lofty and brave ſtrains of Eloquence, in <hi>Eſay</hi> and the Prophets, in <hi>Paul</hi> &amp; the <hi>Revelation,</hi> would ſeeme ſtrange and be unknown? how many admirable and ſublime carriages of ſpeech and figures far beyond the beſt Heathen Oratours would be unobſerved; did not the art of Rhethorike begun of old and perfected in theſe latter times, and applyed to ſacred uſe, lend her helping hand?</p>
+            <p n="10">
+               <note place="margin">In Logick.</note>10. How often ſhould wee erre in the context of Scripture, what improbable deductions would thence be ſtrained, how many ſound proofes for neceſſary Doctrines and concluſions would be unobſerved, had we not together with the ſpirit of GOD, which is the principall, the uſe of Logick all Rules, as a good ac<g ref="char:EOLhyphen"/>ceſſory? Gods providence protects his ſervants, yet do they gird on their ſwords in their journeys, and the Spirit of God doth leade us into all ſacred truth, yet
+<pb n="7" facs="tcp:111874:5"/>Art is not to be refuſed to keep us from being ſurpri<g ref="char:EOLhyphen"/>zed by ſpirituall thieves. But ſome object,<label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label> The Apo<g ref="char:EOLhyphen"/>ſtles, and ſo we, by the Spirit of God can doe more good then any by his Art. <hi>Anſwer.</hi> Speak to the <hi>Jews,</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> 
+               <hi>Indians, Spantards,</hi> and others among us, as the Apo<g ref="char:EOLhyphen"/>ſtles did to ſeverall Nations, though not educated to their tongues, and we will much the rather credit your ability to teach us the truth (which you pretend Ar<g ref="char:EOLhyphen"/>tiſts miſſe of) in our own tongue.</p>
+            <p>Beſides, the queſtion is not whether you by the ſpi<g ref="char:EOLhyphen"/>rit (which you preſume to have) can by it alone doe more, then others by art alone, but whether more then others, who have the ſpirits aſſiſtance as well as you; and alſo education at ſome <hi>Gamaliels</hi> feet, as <hi>Paul</hi> had. Gods Spirit knew, how to make uſe of Art, when <hi>Moſes</hi> brought up in the <hi>Egyptian</hi> learning was called to the Government of <hi>Iſrael,</hi> when <hi>Aholiah</hi> and <hi>Beza<g ref="char:EOLhyphen"/>leel</hi> were choſen for the work of the Tabernacle, when <hi>Jubals</hi> invention was taken in to the furniſhing of <hi>Da<g ref="char:EOLhyphen"/>vids</hi> Quire. Did yee know Art, or the right uſe of Art, yee would not diſ-eſteem it.</p>
+            <p n="11">
+               <note place="margin">In the ancient Fathers.</note>11 How many paſſages in the ancient Fathers of the Chriſtian Church acquaint us with Gods goodneſſe to his ſervants, ſhew the Hereſies reigning in their dayes, and their Arguments againſt the ſame? How often doe they open difficulties in Scripture, in which we, had they not gone before us, might have erred? Doe not they declare how far they were from Papiſticall ſuperſtitions and errours on the one hand, and from fanatical fancies and groundleſſe opinions on the other hand? <hi>Object.</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label> They had their infirmities and did in ſome things erre. <hi>Anſwer.</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> If yee have rob'd the
+<pb n="8" facs="tcp:111874:6"/>Pope of his Chaire, and have an unerring certainty, throw the firſt ſtone at them. Remember <hi>Michaiahs</hi> accuſers, and the horns which ſmote him. Goe not about to take the moat out of their eye, if yee have a beam in your own. Give the ancient Fathers their due, and know that there is good uſe of them.</p>
+            <p n="12">
+               <note place="margin">In controver<g ref="char:EOLhyphen"/>ſies of divers kinds.</note>12 How large is the field of Polemicall Divinitie and Controverſie? How neceſſary is it to have the Ar<g ref="char:EOLhyphen"/>guments of Papiſts. Atheiſts, Turks, and ſeverall Se<g ref="char:EOLhyphen"/>ctaries well anſwered? Why ſhould miſpriſions in Hiſtorie, Propheſies, tongues, caſes of conſcience and the like, goe unconfuted to the great prejudice of Chri<g ref="char:EOLhyphen"/>ſtian truth? Why ſhould not the abuſe of Logick and other Arts be called to account by ſuch as have the true uſe thereof? Let then Polemicall skill and School Divinitie rightly managed have its due place and eſteeme.</p>
+            <p>Of this large extent are matters to be ſtudied by the Clergie, things Spirituall, Temporall, Eternall, treated on in Scripture, are within their taske. In regard where<g ref="char:EOLhyphen"/>of I propound theſe queſtions to any indifferent Reader.</p>
+            <list>
+               <item>1 Whether perſons, educated in Manuary Trades, and ſpending their time therein, can poſsibly attaine to ſo different kinds of knowledge, and bee able to con<g ref="char:EOLhyphen"/>firme truth and anſwer doubts: which profeſſed Stu<g ref="char:EOLhyphen"/>dents (ſuppoſe but of equall parts) cannot attain with<g ref="char:EOLhyphen"/>out long continued education, direction, practice?</item>
+               <item>2 Seeing our Land by Gods bleſsing is better pro<g ref="char:EOLhyphen"/>vided for with a learned, Religious, painfull Clergie, old and young, then ever heretofore, then any land in the World: are they well adviſed, who will be taught
+<pb n="9" facs="tcp:111874:6"/>by ſuch as leap from the Shop-board to the Pulpit, rather then by them, whom education fits, and God and authority cals to the work?</item>
+               <item>3 Whether Colleges and Schools now, as of old the Schools of the Prophets, be not of ſingular uſe to fit ſeverall perſons for the manifold knowledge requi<g ref="char:EOLhyphen"/>red in the Clergie?</item>
+               <item>4 Seeing one man cannot excell in all theſe kindes of knowledge,
+<list>
+                     <item>Firſt, becauſe mans life is ſhort and Art long,</item>
+                     <item>Secondly, God hath made men of diffe<g ref="char:EOLhyphen"/>rent capacities and abilities, whether ſome of the Clergy are not to be directed to one ſtudy, ſome to another, ſome fitted for higher, ſome for lower em<g ref="char:EOLhyphen"/>ployments and places?</item>
+                  </list> As in the Apoſtles times, all were diſpoſed of according to their different gifts, 1 <hi>Co<g ref="char:EOLhyphen"/>renth.</hi> 12.</item>
+               <item>5 Whether a generall knowledge in all theſe kinds be not of good uſe in every Clergie man, that upon occaſion of doubt or difficultie he may know to what book or man, having exact skill in that kind of know<g ref="char:EOLhyphen"/>ledge, he may have recourſe for reſolution?</item>
+               <item>6 Whether, becauſe tis not fit any man ſhould war upon his own coſt, proviſion of meanes hath not beene well made, and may well be augmented (as times dif<g ref="char:EOLhyphen"/>fer) for encouragement and maintenance of Students, and learned men in thoſe ſeverall kindes.</item>
+               <item>7 Seeing teachers of ordinary congregations are to apply themſelves to their hearers capacity, and to have as milke for babes, ſo ſtrong meate for more able Chriſtians: whether good benifices have not beene well by our forefathers alotted them, and whether it be not pittie they ſhould be diverted or impaired, And the Clergie put to ſuit for them?</item>
+               <pb n="10" facs="tcp:111874:7"/>
+               <item>8 Whether ſeeing exact skill in ſacred Hiſtories and matters of the Church, in ſeverall tongues, in contro<g ref="char:EOLhyphen"/>verſies, and the like, being ſomewhat removed from popular capacities and men of meaner parts, and yet moſt neceſſary to be by ſerious ſtudy attained, ſuch as excell therein may not be well provided for, by ſome of the Dignities, Prebends, and other the like prefer<g ref="char:EOLhyphen"/>ments in our Church?</item>
+               <item>9 Whether ſome men of ſingular naturall parts, and having got by education and practice a great meaſure of knowledge above mentioned, and being men very religious, conſcionable, and grave, are not fitted by God for giving counſell and advice in the greateſt matters among Gods people, as <hi>Eliazer</hi> did to <hi>Ioſua, Nathan</hi> to <hi>David, Johojada</hi> to <hi>Ioas, Jehoſua</hi> to <hi>Zorobabel?</hi>
+               </item>
+               <item>10 Whether ſome Clergie men eminent for skil &amp; government by gods bleſsing on their education, learning, and practice, as the Apoſtles were by Gods extraordinary guift, may not be thought fit to govern, direct, and inform others ſubordinate to them, and to order both Clergie men and their meanes for the good of the Church, as did the Apoſtles, and their ſuc<g ref="char:EOLhyphen"/>ceſſors after them.</item>
+            </list>
+            <p>I have done, and leave all to the wiſely conſiderate. More might have beene ſaid of the bounds of the Clergies skill, more queſtions annexed: But this little may informe ſuch as will ſee; ſuch as put out their own cies what ſalve can cure? God help them; his good Spirit guide us all.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:111874:7"/>
+         </div>
+      </body>
+   </text>
+</TEI>
